@@ -1,0 +1,21 @@
+{
+    "name": "wallacezatorski/api_vr_system",
+
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+
+    "authors": [
+        {
+            "name": "Wallace Zatorski",
+            "email": "wallace201269wzs@gmail.com"
+        }
+    ],
+
+    "require": {
+        "firebase/php-jwt": "^6.10",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
